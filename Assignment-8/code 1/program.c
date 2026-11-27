@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-// Om Hinge
 
 #define MAX 100
 
